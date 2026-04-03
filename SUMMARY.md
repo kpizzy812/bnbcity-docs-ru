@@ -7,7 +7,8 @@
 * [Как играть](how-to-play.md)
 * [Здания и тиры](buildings.md)
 * [Земля](land.md)
-* [Маркетплейс](marketplace.md)
+* [Маркетплейс и Sellback](marketplace.md)
+* [Бусты и улучшения](boosts.md)
 
 ## Экономика
 
