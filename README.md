@@ -50,6 +50,7 @@ BNB City -- это изометрический пиксельный город 
 
 ## Присоединяйся
 
-- [Telegram-канал](https://t.me/cityofbnb) -- новости и обновления
+- [Играть в BNB City](https://bnbcity.saturn.ac) -- начни строить прямо сейчас
+- [Telegram-канал](https://t.me/bnbcity_cis) -- новости и обновления
 - [Telegram-чат](https://t.me/bnbcitychat) -- общение с другими игроками
-- [Twitter / X](https://x.me/0xbnbcity) -- анонсы и розыгрыши
+- [Twitter / X](https://x.com/0xbnbcity) -- анонсы и розыгрыши
